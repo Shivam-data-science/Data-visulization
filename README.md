@@ -19,3 +19,4 @@ relevant chart picked for each scenario, presented in a concise and well-structu
 provide explanations that highlight your problem-solving skills.
 
 
+data set - https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls
